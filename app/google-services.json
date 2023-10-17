@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763514612436",
+    "project_id": "eq2ldm",
+    "storage_bucket": "eq2ldm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763514612436:android:d2c1877910e7e3cdfae941",
+        "android_client_info": {
+          "package_name": "com.example.eq2ldm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763514612436-pqchgtn7vi0o2ruol10aerhkl8jp6tai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpEnlBpSGJNLhCtqWQOalXkTxYDXouhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763514612436-pqchgtn7vi0o2ruol10aerhkl8jp6tai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

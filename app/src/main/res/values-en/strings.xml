@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eq2LDM</string>
+    <string name="emailt">User</string>
+    <string name="passwort">Password</string>
+    <string name="entrada">Log-in</string>
+    <string name="crear">Sign-in</string>
+    <string name="emailts">User E-mail</string>
+    <string name="passworts">Password</string>
+    <string name="confirmapasst">Confirm Password</string>
+    <string name="reg">Register</string>
+    <string name="inic">Log-in!</string>
+    <string name="error_correo">Your e-mail is not verified, access denied</string>
+    <string name="ok">Accept</string>
+    <string name="Datos_inc">Incorrect data, Verify it</string>
+    <string name="error">Alert</string>
+    <string name="Oblig">You MUST fill all blanks</string>
+    <string name="error_email">Check your email to continue</string>
+    <string name="error_verif">Your verification has not been confirmed</string>
+    <string name="segur">You´re about to log-off, are you sure?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="idioma">Language</string>
+    <string name="lang_set">Language set to English</string>
+    <string name="proximamente">New feature coming soon!</string>
+    <string name="bienvenido">WELCOME!</string>
+    <string name="opcion">CHOOSE AN OPTION</string>
+    <string name="chat">Chat Now!</string>
+    <string name="mi_usuario">My User</string>
+    <string name="idiomas">Language</string>
+    <string name="sesioff">Log-off</string>
+    <string name="rolus">User Roles</string>
+    <string name="user">User</string>
+    <string name="admin">Admin</string>
+    <string name="role">CHOOSE A ROLE</string>
+    <string name="adminmode">Now you are in Admin mode!</string>
+    <string name="FB">Users</string>
+    <string name="FS">Roles</string>
+    <string name="ushint">User ID</string>
+    <string name="salus">SET YOUR PROFILE UP!</string>
+    <string name="usfot">Choose a profile picture</string>
+    <string name="usid">Write your username</string>
+    <string name="uscon">Confirm and save data</string>
+</resources>
